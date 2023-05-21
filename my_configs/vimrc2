@@ -8,7 +8,8 @@
 
 "VUNDLE_____________________________________________________________________________________________
 "Нужно установить Vundle (https://github.com/VundleVim/Vundle.vim)
-"В командном режиме :PluginInstall
+" git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+" В командном режиме :PluginInstall
 "
 "
 ""	VUNDLE
